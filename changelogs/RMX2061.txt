@@ -1,6 +1,17 @@
 Changelog
 =========
 
+22/09/2026
+- Synced Latest Source Changes
+- Add device-owned thermal HAL for SM7125
+- Improve thermal monitoring and error handling
+- Add BMI160 sensor polling-batch support
+- Improve touch, gaming, boot, and memory performance
+- Fix cached-app killing on the 4.14 kernel
+- Improve USB MTP/ADB configuration
+- Clean up obsolete services and unused configuration
+- Improve wake gestures, Keymaster startup, and power handling
+
 13/07/2026
 - Synced Latest Source Changes
 - Kernel-level improvements for stability and performance
