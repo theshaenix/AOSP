@@ -1,6 +1,27 @@
 Changelog
 =========
 
+22/09/2026
+----------
+- Latest Source Synced
+- September 2026 Security Patch
+- Pixel Launcher Removed for Now
+- Fixed UPI Apps SMS Bank Verification
+- Updated Lunaris Dolby
+- powerhint: enhance expensive rendering boosts
+- Increase media volume steps from 15 to 25
+- Setup lights aidl
+- Set LED overlays only for CN hwc
+- overlay: Remap some haptics effects
+- audio: Add MONO layout for voip_playback
+- audio: Add DIRECT flag for voip_playback
+- audio: Bump active count for voip_playback to 2
+- Switch to 12GB Dalvik heap profile
+- Remove obsolete SurfaceFlinger properties
+- Add lseek syscall for qesdksec.policy
+- Fix Gamebar GPU Info
+- Add missing lib
+
 19/08/2026
 ----------
 - Latest Source Synced
